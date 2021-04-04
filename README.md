@@ -8,7 +8,7 @@ These datasets overlap, so I used Python to concatenate them and then remove all
 
 From this point I simply plot the mortality for each year and then calculate the difference in mortality between 2019 and 2020.  When we do this we can see that the number of deaths in the US in 2020 was considerably higher than those in prior years and that the excess follows a pattern not unlike the different waves of Covid-19 that were reported throughout the year.  It is also interesting to note that the number of excess deaths as of mid-December is considerably higher than any of the reported Covid-19 tallies from that timeframe. 
 
-![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mortalityhistoryg.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mortalityhistoryh.jpg)
 
 Since the data for 202 and 20221 is not yet stable I calculate how each reporting date's mortality numbers change from week to week.  These convergence indicators are shown on the next chart and looking at them we can understand how long it takes for the that week's tally to stabilize.  From the chart below we can see thatit takes between weeks five and six weeks before the mortality count for that week stops changing.
 
