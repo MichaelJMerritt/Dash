@@ -19,3 +19,11 @@ But that few week time period seems to be an anomoly, otherwise we can see that 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/convergeh.jpg)
 
 This is a great look at the data at a high level, but now lets look at the details.  The combined dataset I created can be opened with PowerBI and interrogated with a simple report that allows the data to be sliced by year and US state.  The data also includes causes of death for any slice.  Since any death can be from multiple causes these values do not sum to the actual mortality numbers.
+
+![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprtTot.jpg)
+
+![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprt2019.jpg)
+
+![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprt2020.jpg)
+
+![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprt2020KY.jpg)
