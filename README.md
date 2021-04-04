@@ -1,6 +1,5 @@
 # 1. Dashboard Methodology using Python and Power BI
 
-Large amounts of data needs to be collected before many analyses can be made.  This can be public data downloaded or scraped from websites or it can be queried from private databases.  Often this data is not immediately in a useable form and must be processed in order to make sure that any missing data is accounted for and the data types are consistent.  
 
 For this analysis I've pulled mortality data in the USA from 3 different sources in the Center for Disease Control (CDC) database.  First, a large set of historical data from 2014 - 2018 that is stable.  Second, a dataset from the end of 2020 that had provisional, semi-stable mortality data for 2019.  Finally the most recent dataset from 2021 that has provisional mortality data for 2020 and 2021 year to date.
 
