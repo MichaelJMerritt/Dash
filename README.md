@@ -35,3 +35,5 @@ In this case we can see the many deaths that are Covid-19 related spring up in 2
 Finally we can interrogate any US state's data.  In this case we can see that Kentucky avoided the intial wave of deaths due to Covid-19 but by the third wave the mortality numbers follow the shape of the national curve.
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/PBIRprt2020KY.jpg)
+
+[Back to Portfolio](https://michaeljmerritt.github.io/Portfolio/)
