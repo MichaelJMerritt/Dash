@@ -1,5 +1,7 @@
 # 1. Dashboard Methodology using Python and Power BI
 
+[Back to Portfolio](https://michaeljmerritt.github.io/Portfolio/)
+
 For this analysis I've pulled mortality data in the USA from 3 different sources in the Center for Disease Control (CDC) database. First, a large set of historical data from 2014 - 2018 that is stable in that the data will not periodically. Second, a dataset from the end of 2020 that had provisional, semi-stable mortality data for 2019. Finally the most recent dataset from 2021 that has provisional mortality data for 2020 and 2021 year to date.
 
 These datasets overlap, so I used Python to concatenate them into a single data table and then remove all duplicate lines of data.
