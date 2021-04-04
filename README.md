@@ -14,7 +14,7 @@ Since the data for 202 and 20221 is not yet stable I calculate how each reportin
 
 An interesting artifact that this chart shows is that during the holidays at the end of December and early January there was a week in which it would appear reporting was put on hold.  The week of very few death reports followed by a significant spike in reported deaths can be seen rippling back throught the data for most of January.
 
-![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/convergeg.jpg)
+![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/convergeh.jpg)
 
 
 
