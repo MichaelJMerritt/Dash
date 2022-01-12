@@ -4,25 +4,25 @@
 
 For this analysis I've pulled mortality data in the USA from 3 different sources in the Center for Disease Control (CDC) database. First, a large set of historical data from 2014 - 2018 that is stable. Second, a dataset from the end of 2020 that had provisional, semi-stable mortality data for 2019. Finally the most recent dataset from 2021 that has provisional mortality data for 2020 and 2021 year to date.
 
-These datasets overlap, so I used Python and Pandas to concatenate them into a single data table and then remove all duplicate data before bringing the cleaned data set into PowerBI.
+These datasets overlap, so I used Python and Pandas to concatenate them into a single data table and then remove all duplicate data before bringing the cleaned data set into PowerBI.  From this point I can plot the mortality for each year on the same chart. The report will allow the data to be sliced by year and US state, and I also include the breakout chart of causes of death for any slice.  Since any death can be from multiple causes these values do not sum to the actual mortality numbers.  
 
-From this point I can plot the mortality for each year on the same chart. When I do this I can see that the number of deaths in the US in 2020 and 2021 were considerably higher than those in prior years and that the excess follows a pattern not unlike the different waves of Covid-19 that were reported in that time.  
+When I do this I can see that the number of deaths in the US in 2020 and 2021 were considerably higher than those in prior years and that the excess follows a pattern not unlike the different waves of Covid-19 that were reported in that time.  
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mort00.jpg)
 
-Individually choosing the year 2019 gives me baseline mortality for an average year in the US.
+Individually choosing the year 2019 provides baseline mortality for an average year in the time before the Covid pandemic.
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mort01.jpg)
 
-Choosing 2020 shows a significant increase in mortality.
+Choosing 2020 shows a significant increase in mortality in the first year of the Covid pandemic.
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mort02.jpg)
 
-Choosing 2021 shows that mortality in the second year of the pandemic is on track to exceed 2020.
+Choosing 2021 shows that mortality in the second year of the pandemic is on track to exceed 2020.  It is als interesting to notefrom the cause of death section that the percentage of deaths of natural causes remains more or less constant despite the increase due to Covid.  This suggests that the 
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mort03.jpg)
 
-This is a great look at the data at a high level, but now lets look at the details.  The combined dataset I created using Python can now be loaded onto PowerBI and interrogated with a simple report.  The report will allow the data to be sliced by year and US state, and I also include the breakout chart of causes of death for any slice.  Since any death can be from multiple causes these values do not sum to the actual mortality numbers.
+This is a great look at the data at a high level, but now lets look at the details.  The combined dataset I created using Python can now be loaded onto PowerBI and interrogated with a simple report.  
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases00.jpg)
 
