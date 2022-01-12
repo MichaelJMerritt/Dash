@@ -9,6 +9,7 @@ These datasets overlap, so I used Python to concatenate them into a single data 
 From this point I can plot the mortality for each year on the same chart. When I do this I can see that the number of deaths in the US in 2020 was considerably higher than those in prior years and that the excess follows a pattern not unlike the different waves of Covid-19 that were reported throughout the year.  
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mortalityhistoryi.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Dashboard-Methodology/Cases00.jpg)
 
 As I stated, the data for 2020 and 2021 is not yet stable.  The causes for this are many but simply put there is a procedure required to assigning a death to a SSN and every instance has a different level of complexity. Given this lag time I will calculate how each reporting date's mortality numbers change from week to week. These convergence indicators will indicate how long it takes for the that week's tally to stabilize.  
 
