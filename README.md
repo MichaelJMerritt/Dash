@@ -34,7 +34,7 @@ Clicking the 80+ age group show that while the total number of Covid cases is re
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases01.jpg)
 
-Clicking the 30-39 age group shows a much greater number of cases and a much smaller number of deaths.
+Clicking the 30-39 age group shows that while folks in this age group contracted five times as many Covid cases as 80+ year old people there were only one twentieth as many deaths.
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases02.jpg)
 
