@@ -22,20 +22,20 @@ Choosing 2021 shows that mortality in the second year of the pandemic is on trac
 
 ![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/mort03.jpg)
 
-This is a great look at the data at a high level, but now lets look at the details.  The combined dataset I created using Python can now be loaded onto PowerBI and interrogated with a simple report.  
+For this next analysis I use only a single dataset from the CDC that has detailed information on Covid cases in the US categorized by age, race and sex.  Each case also has information regarding the severity of the case including hospitalization and death. 
+
+In the charts I've shown the Covid identified cases in the left pane, the deaths in the top-center pane and the death rate by age group in the bottom-center pane.  I added a number of slicers to the right to further study different sections of the population.
+
+Its interesting to note that while looking at the total population the death rate increases non-linearly with age.  In fact the death rate for people under 40 years old is extremely small.
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases00.jpg)
 
-Now that the overall report is created I can interrogate it for more information.  Since the mortality curves for each year are very similar before 2020 I can take a snapshot of 2019 as a baseline:
+Clicking the 80+ age group show that while the total number of Covid cases is relatively small the death rate from these cases in very large.
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases01.jpg)
 
-Once I've noted the death count and causes of death I can switch to 2020 and see how the overall count changes as well as the ratio of the causes.  
+Clicking the 30-39 age group shows a much greater number of cases and a much smaller number of deaths.
 
 ![Image of Convegence](https://michaeljmerritt.github.io/Portfolio/Images/Cases02.jpg)
-
-In this case we can see the many deaths that are Covid-19 related spring up in 2020, and calculate that in 2020 there were over 485,000 more deaths than in 2019, a 16.8% increase.
-
-Finally we can interrogate any US state's data.  In this case we can see that Kentucky avoided the intial wave of deaths due to Covid-19 but by the third wave the mortality numbers follow the shape of the national curve.
 
 [Back to Portfolio](https://michaeljmerritt.github.io/Portfolio/)
