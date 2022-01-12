@@ -8,15 +8,15 @@ These datasets overlap, so I used Python to concatenate them into a single data 
 
 From this point I can plot the mortality for each year on the same chart. When I do this I can see that the number of deaths in the US in 2020 and 2021 were considerably higher than those in prior years and that the excess follows a pattern not unlike the different waves of Covid-19 that were reported in that time.  
 
-![Image of Chart](https://michaeljmerritt.github.io/Dashboard-Methodology/Mort00.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/Mort00.jpg)
 
 
 
-![Image of Chart](https://michaeljmerritt.github.io/Dashboard-Methodology/Mort01.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/Mort01.jpg)
 
-![Image of Chart](https://michaeljmerritt.github.io/Dashboard-Methodology/Mort02.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/Mort02.jpg)
 
-![Image of Chart](https://michaeljmerritt.github.io/Dashboard-Methodology/Mort03.jpg)
+![Image of Chart](https://michaeljmerritt.github.io/Portfolio/Images/Mort03.jpg)
 
 This is a great look at the data at a high level, but now lets look at the details.  The combined dataset I created using Python can now be loaded onto PowerBI and interrogated with a simple report.  The report will allow the data to be sliced by year and US state, and I also include the breakout chart of causes of death for any slice.  Since any death can be from multiple causes these values do not sum to the actual mortality numbers.
 
